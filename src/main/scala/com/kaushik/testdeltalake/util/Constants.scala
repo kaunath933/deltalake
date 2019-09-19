@@ -1,5 +1,9 @@
-package com.knoldus.testdeltalake
+package com.kaushik.testdeltalake.util
 
+/**
+ * A singleton object named Constants where all constants are placed
+ * This constants are used in the main program
+ */
 object Constants {
 
   val SparkAppName: String = "SparkApp"
