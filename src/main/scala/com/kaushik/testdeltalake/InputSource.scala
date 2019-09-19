@@ -22,7 +22,6 @@ trait InputSource {
     .option(Constants.SparkKafkaTopicKey, Constants.SparkKafkaTopicValue)
     .load()
 
-  //
 }
 
 /**
